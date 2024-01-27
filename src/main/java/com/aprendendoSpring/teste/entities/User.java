@@ -1,4 +1,4 @@
-package entities;
+package com.aprendendoSpring.teste.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
